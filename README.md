@@ -14,7 +14,7 @@ extended with:
   matrices, actual-vs-predicted charts, and live forecasting
 - ✅ A clean, reusable, executable project folder (not just a notebook)
 
-> ⚠️ **Disclaimer**: This is an academic project. Predictions are for
+> **Disclaimer**: This is an academic project. Predictions are for
 > learning purposes only and must not be used as financial advice.
 
 
