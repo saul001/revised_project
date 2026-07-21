@@ -200,7 +200,7 @@ without retraining anything.
 
 ---
 
-## 7. Notes on methodology (for your report)
+## 7. Notes on methodology 
 
 - **Directional confusion matrix**: since price prediction is a regression
   task, we derive a classification view by comparing the day-over-day
